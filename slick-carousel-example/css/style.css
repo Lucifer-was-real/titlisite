@@ -1,0 +1,23 @@
+
+
+.carousel{
+  width:100%;
+  margin:0px auto;position: relative;
+}
+.slick-slide{
+  margin:0px; width: 100%;
+}
+.slick-slide img{
+  width:100%;
+ 
+}
+
+/*.slider {
+    width: 100%;
+    margin: 0 auto;
+}
+
+img {
+    width: 949px;
+    height: 385px;
+}*/
